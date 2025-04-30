@@ -2,6 +2,12 @@
 
 You can view the working demo from here: [Video Link](https://drive.google.com/file/d/1rCmjxKkTVnVIFoVkpb-LQff-VqEmUg8B/view?usp=drive_link)
 
+## To clone the repo
+
+```bash
+git clone --recurse-submodules https://github.com/debiprasadmishra50/continum-chat-app-nextjs-nestjs.git
+```
+
 ## Steps to Run
 
 1. Go into each directory:
