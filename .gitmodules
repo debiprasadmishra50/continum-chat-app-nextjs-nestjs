@@ -1,0 +1,6 @@
+[submodule "continum-backend"]
+	path = continum-backend
+	url = https://github.com/continum-chat-app/nestjs-backend
+[submodule "continum-frontend"]
+	path = continum-frontend
+	url = https://github.com/continum-chat-app/nextjs-frontend
